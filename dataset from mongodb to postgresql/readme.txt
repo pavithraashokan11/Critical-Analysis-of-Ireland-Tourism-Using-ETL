@@ -1,0 +1,1 @@
+Before running these file, We have to create a database in pgadmin named Tourism.
